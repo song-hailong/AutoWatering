@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "thread": "cpp",
+        "random": "cpp",
+        "string": "cpp"
+    }
+}
