@@ -1,7 +1,9 @@
 # Auto-Watering 自动浇水系统
-使用ESP32-C3制作的可远程监控和控制的自动浇水系统。接入的平台为点灯科技。
+使用ESP32-C3制作的可远程监控和控制的自动浇水系统。
 
-开发环境为 CLion + Platform IO。
+接入的平台为点灯科技，开发环境为 CLion + Platform IO。
+
+视频展示链接为：[【自制】让花盆实现自动浇水，独自度过寒假](https://www.bilibili.com/video/BV1384y1a7Qr/?spm_id_from=333.999.0.0) 。
 
 ------
 
